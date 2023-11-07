@@ -36,8 +36,16 @@ The build process for your site may take up to 10 minutes. To check if your site
 
 To start editing your site, go to the file \_config.yml and begin making your changes.
 
+## Markdown Basics
 
+# \# This is the largest heading (Heading 1) 
+## \## This is a Heading 2
+### \### This is a Heading 3
+#### \#### This is a Heading 4
+##### \##### This is a Heading 5
+###### \###### This is a Heading 6
 
+This is **\**bold**\** text
 
 
 
