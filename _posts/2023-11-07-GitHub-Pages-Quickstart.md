@@ -22,10 +22,10 @@ GitHub Pages allows you to use pre-made themes to implement your front-end witho
 
 4. Set the name of your repository version to \[USERNAME].github.io, replacing \[USERNAME] with the username you used to sign up with GitHub.
 
-	GitHub Pages has a specific naming convention for the urls of its sites. My GitHub username is joshvejendla, so my GitHub Pages repo will be named joshvejendla.github.io![[Naming Your GitHub Pages Site.png]]
+	GitHub Pages has a specific naming convention for the urls of its sites. My GitHub username is joshvejendla, so my GitHub Pages repo will be named joshvejendla.github.io![Naming Your GitHub Pages Site](assets/images/Naming Your GitHub Pages Site.png)
 
 5. Host your GitHub Pages site by going to Settings > Code and Automation > Pages, then set the source to deploy from branch “master/root”
-![[GitHub Pages Settings.png]]
+   ![GitHub Pages Settings](assets/images/GitHub Pages Settings.png)
 The build process for your site may take up to 10 minutes. To check if your site was hosted correctly, type your repository name (\[USERNAME].github.io) into your browser search bar. The site should be hosted with the starter template.
 
 ## Configuring Your Site
