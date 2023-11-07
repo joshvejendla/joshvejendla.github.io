@@ -18,7 +18,7 @@ GitHub Pages allows you to use pre-made themes to implement your front-end witho
 
 3. Fork your own version of the theme by clicking "Fork" at the top right of the page
 
-![[/assets/images/Minimal Mistakes Theme.png]]
+![[assets/images/Minimal Mistakes Theme.png]]
 
 4. Set the name of your repository version to \[USERNAME].github.io, replacing \[USERNAME] with the username you used to sign up with GitHub.
 
