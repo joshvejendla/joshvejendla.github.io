@@ -38,7 +38,7 @@ To start editing your site, go to the file \_config.yml and begin making your ch
 
 ## Markdown Basics
 
-# \# This is the largest heading (Heading 1) 
+# \# This is a Heading 1
 ## \## This is a Heading 2
 ### \### This is a Heading 3
 #### \#### This is a Heading 4
