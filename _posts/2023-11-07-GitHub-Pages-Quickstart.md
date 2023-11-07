@@ -6,7 +6,7 @@ GitHub Pages allows you to use pre-made themes to implement your front-end witho
 
 ## Setting Up Your Site
 
-1. Start by creating a GitHub account here: https://github.com
+1. Start by creating a GitHub account here: (https://github.com)
 
 2. Choose a theme that best suits your needs. 
 	
