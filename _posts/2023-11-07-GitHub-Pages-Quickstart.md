@@ -45,7 +45,7 @@ To start editing your site, go to the file \_config.yml and begin making your ch
 ##### \##### This is a Heading 5
 ###### \###### This is a Heading 6
 
-This is **\**bold**\** text
+This is **\ **bold** \** text
 
 
 
