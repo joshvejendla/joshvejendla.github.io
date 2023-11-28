@@ -35,13 +35,11 @@ Security Token Service (STS) is a web service that enables you to request and ma
 
 ```get-caller-identity``` allows you to retrieve the User ID, account number, and Amazon Resource Name (ARN) of the access credentials used to run this command.
 
-Altogether, ```aws sts get-caller-identity``` operates similarly to a Linux ```whoami```. It is typically used
+Altogether, ```aws sts get-caller-identity``` operates similarly to a Linux ```whoami```. 
 
 ### First Steps
 
 The first challenge presents a public S3 bucket allowing **GetObject** and **ListBucket** actions. We can see this by clicking the "View IAM Policy" button.
-
-![[Screenshot 2023-11-23 at 11.54.52 PM.png]]
 
 We can go to the AWS CLI documentation to search for commands related to the actions listed in the policy.
 
