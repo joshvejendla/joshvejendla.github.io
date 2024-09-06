@@ -36,21 +36,13 @@ The build process for your site may take up to 10 minutes. To check if your site
 
 To start editing your site, go to the file \_config.yml and begin making your changes.
 
-## Markdown Basics
+## Markdown Resources
 
-# \# This is a Heading 1
-## \## This is a Heading 2
-### \### This is a Heading 3
-#### \#### This is a Heading 4
-##### \##### This is a Heading 5
-###### \###### This is a Heading 6
+[A Markdown Style Guide](https://daringfireball.net/projects/markdown/syntax#overview)
 
-This is **bold** text
+[Using Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-This is *italicized* text
-
-This is a link to [Google](https://www.google.com/)
-
+[A Free Full Markdown Course](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
 
 
 
