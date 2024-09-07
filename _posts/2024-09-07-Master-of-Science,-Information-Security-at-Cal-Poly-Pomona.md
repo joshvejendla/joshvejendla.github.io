@@ -1,8 +1,6 @@
 ---
 title: "Master of Science, Information Security at Cal Poly Pomona"
 ---
-# Master of Science, Information Security at Cal Poly Pomona
-
 ## Coursework in Progress
 
 ### Fall 2024
