@@ -1,8 +1,6 @@
 ---
 title: "Big IAM Challenge Guide"
 ---
-## About
-
 The Big IAM Challenge is a cloud security Capture-The-Flag (CTF) learning exercise designed to teach players how to use Identity and Access Management (IAM) in Amazon Web Services, then discover and exploit misconfigurations in IAM policies.
 
 The challenge doesn't require you to create an AWS account or spin up your own resources, since everything is self-contained within the website.
