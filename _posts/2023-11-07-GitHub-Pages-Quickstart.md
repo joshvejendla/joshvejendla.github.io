@@ -1,5 +1,3 @@
-## Background
-
 GitHub Pages is a service that allows you to host a free, low-code portfolio or blog directly from a git repository. It uses Jekyll, a static site generator, to automatically process YAML configuration files and Markdown text files into HTML web pages.
 
 GitHub Pages allows you to use pre-made themes to implement your front-end without the need for custom code. It is also highly extensible, allowing for the inclusion of HTML, CSS, and Liquid (Jekyll's templating language) to further customize your front-end as you see fit.
