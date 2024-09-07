@@ -1,8 +1,6 @@
 ---
 title: "Big IAM Challenge Guide"
 ---
-# Big IAM Challenge Guide
-
 ## Helpful Links
 
 [About The Big IAM Challenge](https://www.wiz.io/blog/the-big-iam-challenge)
