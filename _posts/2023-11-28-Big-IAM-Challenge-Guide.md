@@ -1,14 +1,6 @@
 ---
 title: "Big IAM Challenge Guide"
 ---
-## Helpful Links
-
-[About The Big IAM Challenge](https://www.wiz.io/blog/the-big-iam-challenge)
-
-[Go to The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
-
-[AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3/ls.html)
-
 ## About
 
 The Big IAM Challenge is a cloud security Capture-The-Flag (CTF) learning exercise designed to teach players how to use Identity and Access Management (IAM) in Amazon Web Services, then discover and exploit misconfigurations in IAM policies.
@@ -25,6 +17,14 @@ The challenge has 6 sections, each focused on a particular service and with its 
 6. Final Stage
 
 ## Getting Started
+
+### Helpful Links
+
+[About The Big IAM Challenge](https://www.wiz.io/blog/the-big-iam-challenge)
+
+[Go to The Big IAM Challenge](https://bigiamchallenge.com/challenge/1)
+
+[AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3/ls.html)
 
 ### AWS Commands
 
